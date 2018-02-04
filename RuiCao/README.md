@@ -1,0 +1,6 @@
+# Robocon2018_AI_All_codes_GDUT
+ Ruicao
+这个星期我主要做了相机的标定与初步的视差算法的使用。
+其中4m.svo是标定好的zed视频。
+result.bmp为1920*1080大小的标定板，这个标定板刚好可以适应于工二506的电视机。
+zed_parameter.txt为zed的标定参数，这份参数相对于出厂参数精确2cm左右。
